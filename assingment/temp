@@ -1,1 +1,37 @@
-d
+LIST OF CS ASSIGNMENT
+(text and binary files)
+
+1)Write a function add(n) to add n lines in a text file jvm.dat. Also write a function display() which will count and display lines starting with a vowel. Invoke these functions.
+
+2)Write a program in python having these functions:
+   Add() for adding lines in “jvm.dat” and words() for counting words with length >4 characters  in each line.  Invoke these functions.
+
+3) Write a program in python having these functions:
+Add() for adding lines , display() to read a text file line by line and display each word separated by #.
+
+4) Write a program in python having these functions:
+i)add():- for adding lines.
+ii)rem():- copy all lines that contain character “a” in a file to another file.
+
+5) Write a program in python having these functions:
+i)add():- for adding lines.
+ii)count():- read a text file and display number of vowels , upper case, lower case, digits and blank space in a file.
+
+6) Write a program in python having these functions:
+i)add():-for creating a binary file with name ,roll no and marks and store n records 
+ii)update():- input a roll no and update the marks after updation,display whole file.
+
+7) Write a program in python having these functions:
+i)add():- for creating a binary file with name and roll no and store n records
+ii)search()-input a roll no and display the name,if not found display appropriate message.
+
+8) ) Write a program in python having these functions:
+i)add():- for adding n records in binary file.
+	  Structure[item number, item name, unit price, quantity]
+ii)display():- for displaying all records of binary file
+iii)search():- to print total values for those items whose quantity >100 and also to print quantity of such items.
+iv)update():- input  item number and modify unit price and quantity.
+v)delete(): deleting those items where quantity is 0.
+
+Write a menu driven program to:
+1.add     2.display   3.search    4.update    5.delete    6.quit
